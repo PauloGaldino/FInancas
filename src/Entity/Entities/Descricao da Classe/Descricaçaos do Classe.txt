@@ -1,0 +1,12 @@
+﻿Esta classe é responsável por conter as entidades relacionadas ao sistema.
+
+Técnologia utlizada:
+	DataNotation
+
+Ordem de criação das tabelas:
+	-Base;
+	-SistemaFianaceiro;
+	-Categoria;
+	-Compra;
+	-ItemCompra
+ 
